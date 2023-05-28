@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "englishsupportcenterbot-ivgt",
+  "private_key_id": "915b4fa1585e5da708ff835e734f3c6c3771a8de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmZosVntZ5MyfD\n83dpc+F0PnJz+3Vz2OjzOrphxHOLxZAp8uIdwzJmMHaJ1POZoVVSIjSfjGdrOP6d\n6i0x8adnon5RiVs+EmQdAbBAa3xJtoW1CXdszRHj9iw2Ln8qOn7JffgLGhVncvXM\nRig6VrDO8tYK9m2G6weTv6K651oIzdXHaWLYHK18aqoDlRYH16/0oWNRDVjxbTUR\nGgu7CzBokKDMY+vcTeJk0q5B9JoUhjH8z4qxL1g5gJKCvFeCHASDUmrv6EmXSUP3\nnl8HImFeKJWk7I2tT70vlYqMoDtLquxjGN7+tGJLmkp9DBQmXb2xluUhIYpYxNZM\ny5XQnH7pAgMBAAECggEASfWf8h8kQsB69zxaofNQjQNIicaFgNUzTRCYUOYpWUGZ\nfxumZwYge40k0sRk9a7gpl3vt86HFQBDI1s3dVBsUMLHlGQRuvgfqUjb1vYvSvAm\nY73uZ9yKDCGZqwdlnBZdzh8ARab1RoKxP3cbYDqx4XnLqxm2utXyCziNErfLq8dh\nqFTOOtvAqH9cX0fmDzwptSW0yeE/EfwgEZViFRgg06mGBuWYI/bL2p0w+DdRF6WU\nAFPjXV4QMsLKIuayVKTKsZsXJC7KFG3QKoauk2XbOknXTaUPOTt0kt2YTw4wjZd0\noCWmsWq82wGiJNBjFQUQlMb2mGtPihff3an6EiGIZQKBgQDUBM5/INDWfxPThvi7\nz69kpXueUWCAj+7HmORQEdIgJEfheJ41ulTFzQdkESWQd54oMygFTiz0axK93Jcc\nesQUtWcxM0Uy0hjRF8XrQTHF2yTw0uJEAcwSLKO4zo3LK6Un5q5VUYsqZGWsjf4M\n2ff8apId3nepAmfx7FpWc4SHwwKBgQDI6zHscihG6usZ0YyVNyCPkRD+fObwB1S8\nCo+Ja/ubNvLuM4xZQEJAScc7seIAGqVxL2ZUqT5Cyh9t7ovnjXavSNhrnjHAD6M0\nIV+0zG5HBJdWiX8tBpVg53PlcMgZfXPyaww0Gi2wd0egB8NshU061RsxzMjMas0f\nGwGBEMKf4wKBgFOCySt964RxbYfGBDdF6NoF7JlBiHdbOjxYVqXLPy7123JOJlMX\nX8jBp4Wc02UCGMPQ0pS0ZDSp8Cnkt4i6On3Fri3M+ha4dpn1eTne5hH+7aAGEKWk\n55LJDnv+sA8008rRrB1jDyPVg87h5w181ZcRCxjExfFGR1cdN8ARpEQtAoGAdaA8\nOhEbQ2mE+jiT9Uew6Fwldtfo291u3ifQoMN3KgehcZL8N8RHBRwsZ+ZcSXNQKFN3\ntVjf+noarGFbxtQrB7O+AEM9HRQKmBpxzYdhiHJHp4IX0mRoT7MxRsIgY8vudZ32\nJwqsdQNgC3CAGKhx7l+U7DLX29UrAWruFoGZb8ECgYAZlI2D6Ibaw8WZyaLsMl32\nHY1WSub+ZIXgF/mSihxfPLYaj7py49xUBH5veTae6R62NLIcC/coQAlsdZsKdKcK\n4MP4NvlyFS1SzLjBy2dC8ZqfQomS/9adD6EI45fzdpwk6jyopYdCJeKyAMGCPY/9\nuF6OCzdSyxfIqsPRDYEKOQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "englishsupportcenterbot@englishsupportcenterbot-ivgt.iam.gserviceaccount.com",
+  "client_id": "105655620926225231688",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/englishsupportcenterbot%40englishsupportcenterbot-ivgt.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

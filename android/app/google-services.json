@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "799232426817",
+    "project_id": "aman-sellerside-sa",
+    "storage_bucket": "aman-sellerside-sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799232426817:android:61d4b6b55b9b7848ac17c0",
+        "android_client_info": {
+          "package_name": "com.example.farmily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799232426817-u8uls4e8dg2f7v0qer9d5g6t7lra793o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoTWKe1gESun6ykvwuaLyoL2ovQaVOQvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799232426817-u8uls4e8dg2f7v0qer9d5g6t7lra793o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799232426817-1mu35rh5qbmi2tto8epsmubebnkvpgla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sellerside"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
